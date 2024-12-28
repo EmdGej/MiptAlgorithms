@@ -1,0 +1,1 @@
+Алгоритм Крускала: https://algorithmica.org/ru/mst
